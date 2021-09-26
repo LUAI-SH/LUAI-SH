@@ -1,4 +1,4 @@
-I'm a FRONT-END developer based in Melbourne, 🇦🇺. 
+Front end developer based in Melbourne, 🇦🇺. 
 - Languages: HTML | CSS | Javascipt.
 - Framework: React.js | Tailwind.
 

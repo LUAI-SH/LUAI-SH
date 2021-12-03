@@ -1,5 +1,5 @@
 Front end developer based in Melbourne, 🇦🇺. 
-- Languages: HTML | CSS | Javascipt.
+- Languages: HTML | CSS | Javascipt | Python.
 - Framework: React.js | Styled Components.
 
 <!---
